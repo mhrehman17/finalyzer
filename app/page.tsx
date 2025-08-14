@@ -1,4 +1,4 @@
-import Uploader from '@/components/Uploader'
+import Uploader from '../components/Uploader'
 import { FileText } from 'lucide-react'
 
 export default function Page() {
