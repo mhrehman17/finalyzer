@@ -1,5 +1,4 @@
 {
-  {
   "name": "finalyzer",
   "version": "2",
   "private": true,
@@ -7,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
-  },
+    },
   "dependencies": {
     "next": "14.2.5",
     "react": "18.2.0",
@@ -17,10 +16,10 @@
     "chart.js": "^4.4.0",
     "xlsx": "^0.18.5",
     "pdf-parse": "^1.1.1"
-  },
+    },
   "devDependencies": {
     "tailwindcss": "^3.3.3",
     "postcss": "^8.4.30",
     "autoprefixer": "^10.4.14"
-  }
+    }
 }
