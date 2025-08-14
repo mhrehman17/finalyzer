@@ -16,7 +16,7 @@
     "chart.js": "^4.4.0",
     "xlsx": "^0.18.5",
     "pdf-parse": "^1.1.1",
-    "lucide-react": "^0.264.0"
+    "lucide-react": "^0.539.0"
   },
   "devDependencies": {
     "tailwindcss": "^3.3.3",
