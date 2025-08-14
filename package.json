@@ -1,5 +1,5 @@
 {
-  "name": "finflow-vercel-advanced",
+  "name": "finalyzer",
   "version": "2.0.0",
   "private": true,
   "scripts": {
@@ -19,6 +19,7 @@
     "tailwindcss": "3.4.7",
     "postcss": "8.4.41",
     "autoprefixer": "10.4.20",
+    "pptxgenjs": "^3.12.0"
     "@radix-ui/react-slot": "1.0.2",
     "clsx": "2.1.1",
     "zod": "3.23.8",
