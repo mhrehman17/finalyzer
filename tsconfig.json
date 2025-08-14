@@ -19,7 +19,11 @@
     "incremental": true,
     "types": [
       "node"
-    ]
+    ],
+    "baseUrl": ".",               // added baseUrl
+    "paths": {
+      "@/*": ["./*"]             // added alias for '@'
+    }
   },
   "include": [
     "next-env.d.ts",
